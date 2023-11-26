@@ -3,7 +3,7 @@
 CoPhi group is a research group on software engineering and security in the Department of Computer Science, Shanghai Jiao Tong University, with close collaboration with School of Computing, National University of Singapore. 
 Our research focus lies as follows:
 
-- Software Causality and Explanation:
+- Software Causality and Explanation
 
 We develop technique and tools to trace the root cause of some software behaviors such as software bugs and anomaly.
 Specifically, we automate the software debugging and log analysis technique to help people to understand the program behaviors and make more informed decision.
