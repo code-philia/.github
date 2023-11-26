@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to CoPhi Group 👋
+
+CoPhi group is a research group on software engineering and security in the Department of Computer Science, Shanghai Jiao Tong University, with close collaboration with School of Computing, National University of Singapore.
 
 <!--
 
