@@ -13,7 +13,7 @@ It is important for people to understand the execution in the era of LLM and AIG
 
 We generate trustworthy code include generating general code and their test cases.
   
-- Visualized and Explainable Model Development
+- Visualizing and Explaining Model Training Process
 
 We help the people understand the learned representation space of deep learning models by converting the training process into an interactble animation. 
 Model developers can understand how the representation space evolves during the training.
