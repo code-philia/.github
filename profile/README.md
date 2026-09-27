@@ -6,7 +6,7 @@ Our research aims to build intelligent, trustworthy, and explainable software sy
 
 # Research Directions
 
-## Automatic Programming
+## Agentic Programming
 We develop techniques and systems that turn complex software requirements into executable and evolvable software artifacts.
 
 * Requirement Compilation
